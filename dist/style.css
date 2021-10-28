@@ -1,0 +1,13 @@
+.jumbotron {
+    background-color: darkblue;
+    color: whitesmoke;
+}
+
+.main-section {
+    flex-wrap: wrap;
+}
+
+.card {
+    margin: 1em;
+    width: 20rem;
+}
